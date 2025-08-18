@@ -1,0 +1,13 @@
+/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/build/CMakeFiles/edit_cache.dir
+/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/build/CMakeFiles/rebuild_cache.dir
+/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/build/CMakeFiles/list_install_components.dir
+/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/build/CMakeFiles/install.dir
+/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/build/CMakeFiles/install/local.dir
+/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/build/CMakeFiles/install/strip.dir
+/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/build/src/CMakeFiles/svg_inflate.dir
+/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/build/src/CMakeFiles/edit_cache.dir
+/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/build/src/CMakeFiles/rebuild_cache.dir
+/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/build/src/CMakeFiles/list_install_components.dir
+/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/build/src/CMakeFiles/install.dir
+/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/build/src/CMakeFiles/install/local.dir
+/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/build/src/CMakeFiles/install/strip.dir

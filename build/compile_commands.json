@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/build/src",
+  "command": "/usr/bin/c++  -I/opt/homebrew/include/freetype2 -isystem /opt/homebrew/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks  -Wno-deprecated-declarations -Wno-c++11-extensions -o CMakeFiles/svg_inflate.dir/main.cpp.o -c /Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/src/main.cpp",
+  "file": "/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/src/main.cpp",
+  "output": "src/CMakeFiles/svg_inflate.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/build/src",
+  "command": "/usr/bin/c++  -I/opt/homebrew/include/freetype2 -isystem /opt/homebrew/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks  -Wno-deprecated-declarations -Wno-c++11-extensions -o CMakeFiles/svg_inflate.dir/viewer.cpp.o -c /Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/src/viewer.cpp",
+  "file": "/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/src/viewer.cpp",
+  "output": "src/CMakeFiles/svg_inflate.dir/viewer.cpp.o"
+},
+{
+  "directory": "/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/build/src",
+  "command": "/usr/bin/c++  -I/opt/homebrew/include/freetype2 -isystem /opt/homebrew/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks  -Wno-deprecated-declarations -Wno-c++11-extensions -o CMakeFiles/svg_inflate.dir/svg_shape.cpp.o -c /Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/src/svg_shape.cpp",
+  "file": "/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/src/svg_shape.cpp",
+  "output": "src/CMakeFiles/svg_inflate.dir/svg_shape.cpp.o"
+},
+{
+  "directory": "/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/build/src",
+  "command": "/usr/bin/c++  -I/opt/homebrew/include/freetype2 -isystem /opt/homebrew/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks  -Wno-deprecated-declarations -Wno-c++11-extensions -o CMakeFiles/svg_inflate.dir/daeTransformer.cpp.o -c /Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/src/daeTransformer.cpp",
+  "file": "/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/src/daeTransformer.cpp",
+  "output": "src/CMakeFiles/svg_inflate.dir/daeTransformer.cpp.o"
+},
+{
+  "directory": "/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/build/src",
+  "command": "/usr/bin/c++  -I/opt/homebrew/include/freetype2 -isystem /opt/homebrew/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks  -Wno-deprecated-declarations -Wno-c++11-extensions -o CMakeFiles/svg_inflate.dir/testMeshedit.cpp.o -c /Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/src/testMeshedit.cpp",
+  "file": "/Users/tiwar081/Desktop/Work/Coursework/CSDS/CS184/puffy/src/testMeshedit.cpp",
+  "output": "src/CMakeFiles/svg_inflate.dir/testMeshedit.cpp.o"
+}
+]
